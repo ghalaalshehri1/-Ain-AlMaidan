@@ -1,4 +1,3 @@
-# Ain-AlMaidan
 # Ain AlMaidan – Smart Stadium Behavior Detection System
 
 Ain AlMaidan is an AI-powered system that uses computer vision to detect violent or disruptive behavior in stadiums, such as fights, pitch invasions, or the use of fireworks. The system analyzes video footage in real time and alerts authorities for quick intervention, enhancing audience safety and event management.
