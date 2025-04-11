@@ -9,7 +9,7 @@ To create a real-time violence detection model for stadiums that helps:
 - Support Saudi Vision 2030 by applying smart technologies in sports facilities
 
 ## Dataset
-- Source: [Hockey Fight Dataset - Kaggle](https://www.kaggle.com/datasets/laertelag/hockey-fights)
+- Source: [Hockey Fight Dataset - Kaggle](https://www.kaggle.com/datasets/yassershrief/hockey-fight-vidoes/discussion?sort=hotness)
 - 40 videos for each class: "Fight" and "Non-Fight"
 - Each video was processed to extract 30 grayscale frames (64x64 pixels)
 - Video labels were inferred from filenames (e.g., fi*.avi = Fight)
